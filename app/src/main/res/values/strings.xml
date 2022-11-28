@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Start Page</string>
+    <string name="second_fragment_label">Home Page</string>
+    <string name="next">Continue</string>
+    <string name="previous">Previous</string>
+    <string name="image">image</string>
+    <string name="careview">Careview</string>
+    <string name="welcome">Welcome Careview is here to ensure that everyone can get quality,safe and affordable medicine and wellness products online
+<!--        Welcome Careview is here to ensure that everyone can get quality,safe and affordable medicine and wellness products online-->
+    </string>
+    <string name="message">company mesaage</string>
+    <string name="gummy">Gummy Vitamins</string>
+    <string name="VitC">Vitamin C</string>
+    <string name="price1">Ksh 500</string>
+    <string name="price2">Ksh 800</string>
+    <string name="offers">OFFERS</string>
+    <string name="start">Welcome to Pharma</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
